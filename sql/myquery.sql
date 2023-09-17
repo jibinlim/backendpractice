@@ -1,0 +1,13 @@
+-- use supermarket;
+-- use webdb;
+-- create database exampledb;
+-- use exampledb;
+-- create table persons(
+-- personid int,
+-- lastname varchar(255),
+-- firstname varchar(255),
+-- address varchar(255),
+-- city varchar(255)
+-- );
+
+-- create table students as select firstname, city from persons;
